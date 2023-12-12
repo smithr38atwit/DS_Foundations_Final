@@ -44,3 +44,23 @@ standard scalar was used. The last two are unordered categorical text data, so a
 
 ![image](https://github.com/smithr38atwit/DS_Foundations_Final/assets/54961768/862bdc4b-5576-4702-abb7-9140c8806d22)
 
+## Methods
+
+Tools:
+- Pandas and Scikit-Learn for data manipulation and regression models
+- Keras for neural network
+- Matplotlib for visualization
+
+Regression Models:
+- SVR
+- Lasso
+- ElasticNet
+
+Neural Net: Sequential model with one hidden layer
+
+Hyperparameter tuning: GridSearchCV
+
+Metrics:
+- MSE (Mean Squared Error)
+- MAE (Mean Absolute Error)
+
