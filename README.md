@@ -131,3 +131,27 @@ and although the MAE being a few seconds is still large, it is a much more viabl
 Tuning ElasticNetCV did not have the same affect and only showed very slight improvement in error:
 
 ![image](https://github.com/smithr38atwit/DS_Foundations_Final/assets/54961768/80f11551-002b-4cb9-bafc-1069830df4da)
+
+![image](https://github.com/smithr38atwit/DS_Foundations_Final/assets/54961768/903af9c7-5e55-4da2-bab2-ce57fc2cc9fe)
+
+## Discussion
+
+Of the 3 regression algorithms used, the best base model was SVC with linear kernel (MAE: 3.86, MSE: 42.55), followed closely by ElasticNetCV, with Lasso being the least accurate (MAE: 4.31, MSE: 55.23). Lasso and ElasticNet are both algorithms that rely on only a couple of the 
+feature being important. Lasso is likely to pick one of the correlated features at random, while ElasticNet is able to preserve these correlations better. This would explain the difference in performance between the two if multiple features were correlated, so we can assume that 
+it is the case that there are multiple correlated features.
+
+Despite the Lasso model's worse performance, it was still able to outperform the neural net. Even in their most simple form, neural nets are complicated structures that are overkill for a smaller problem such as this dataset. They can also require some feature engineering a trial/error 
+to get working right, so the effort required to so is not worth it when a simpler regression algorithm performs better at baseline.
+
+Tuning the regression models with GridSearch proved to be the best solution in this case, as it greatly improved the performance of SVR (MAE: 2.86, MSE: 22.94). The best model was still only somewhat accurate, but this model can still be useful and shows that predictions on lap time 
+can be made with PS, weight, displacement, engine layout, and drivetrain. 3 seconds can be a long time in motorsports, so this model may not be sufficient in a competetive setting. However, it could be useful to classify cars into different categories deciding which cars would compete 
+against each other, which would have a much wider margin than predicting something like an opponents qualifying time.
+
+For future research, I would like to test my hypothesis that a similar model could be used to put cars into different competition categories based on their predicted lap time (i.e. binning). In addition, it would be interesting to see how the models would change if there was significantly 
+more data used, since the dataset was very small and limited the accuracy of the models.
+
+## Summary
+
+In this project, I analyzed a small dataset to test the hypothesis that lap times of cars at a specific track could be predicted using various car specifications. Baseline tests showed that the most promising models were SVR and ElasticNetCV, with the lowest error at the time being 
+an MSE of 42.55. Before tuning, I performed an additional test using a simple sequential neural net to make predictions on the data. The nerual net seemed overcomplicated for the problem at hand though, and (possibly due to weighting insignificant features too heavily) was not able to 
+achieve an error comparable to the regressors. After tuning SVR and ElasticNetCV, the best model was found to be SVR with an "rbf" kernel and C value of 10. This produced the smallest error with an MSE of 22.94 and an MAE of 2.86 seconds.
