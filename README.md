@@ -155,3 +155,6 @@ more data used, since the dataset was very small and limited the accuracy of the
 In this project, I analyzed a small dataset to test the hypothesis that lap times of cars at a specific track could be predicted using various car specifications. Baseline tests showed that the most promising models were SVR and ElasticNetCV, with the lowest error at the time being 
 an MSE of 42.55. Before tuning, I performed an additional test using a simple sequential neural net to make predictions on the data. The nerual net seemed overcomplicated for the problem at hand though, and (possibly due to weighting insignificant features too heavily) was not able to 
 achieve an error comparable to the regressors. After tuning SVR and ElasticNetCV, the best model was found to be SVR with an "rbf" kernel and C value of 10. This produced the smallest error with an MSE of 22.94 and an MAE of 2.86 seconds.
+
+## References
+- [Kaggle Dataset](https://www.kaggle.com/datasets/reggiejanmarcnillo/laguna-seca-lap-times-via-fastestlaps/)
