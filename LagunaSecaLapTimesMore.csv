@@ -1,0 +1,188 @@
+Name,CarLink,Time,PS,Weight_KG,Car_type,Year,Country_of_Origin,Engine_type,Displacement,Transmission,Engine_Layout,Drivetrain
+Acura ARX-01b,https://fastestlaps.com/models/acura-arx-01b,70.1,558,825,Coupe,2008.0,Japan,V8 DOHC,3.4,6 speed Sequential,middle engine,rear wheel drive
+Porsche RS Spyder (Evo),https://fastestlaps.com/models/porsche-rs-spyder,70.35,510,775,Coupe,2007.0,Germany,V8 DOHC,3.4,6 speed Sequential,middle engine,rear wheel drive
+Acura ARX-01a,https://fastestlaps.com/models/acura-arx-01a,70.91,558,825,Coupe,2007.0,Germany,V8 DOHC,3.4,6 speed Sequential,middle engine,rear wheel drive
+Audi R10 TDI,https://fastestlaps.com/models/audi-r10-tdi,71.17,659,925,Coupe,2006.0,Germany,V12 DOHC Twin Turbo,5.5,5 speed Sequential,middle engine,rear wheel drive
+Porsche RS Spyder,https://fastestlaps.com/models/porsche-rs-spyder-n-a,74.03,487,775,Coupe,2005.0,Germany,V8 DOHC,3.0,6 speed Sequential,middle engine,rear wheel drive
+Czinger 21C,https://fastestlaps.com/models/czinger-21c,85.45,1267,1250,Coupe,2020.0,United States,"DOHC twin-turbocharged V8, 3 electric motors",2.9,7-speed sequential automatic,middle engine,all wheel drive
+McLaren Senna (P15),https://fastestlaps.com/models/mclaren-senna-p15,87.62,800,1364,Coupe,2018.0,United Kingdom,V8 DOHC Twin Turbo,4.0,7-speed daul clutch,middle engine,rear wheel drive
+Porsche 911 GT2 RS (991),https://fastestlaps.com/models/porsche-911-gt2-rs-991,88.3,700,1515,Coupe,2017.0,Germany,twin-turbocharged flat-6,3.8,7 speed dual clutch automatic (PDK),rear engine,rear wheel drive
+Pagani Huayra BC,https://fastestlaps.com/models/pagani-huayra-bc,88.5,800,1218,Coupe,2017.0,Italy,Mercedes-Benz AMG V12 60°,6.0,7-speed with electronic mechanical differential,middle engine,rear wheel drive
+Dodge Viper ACR (Mk V),https://fastestlaps.com/models/dodge-viper-acr-mk-v,88.65,654,1539,Coupe,2016.0,United States,V10,8.4,Tremec TR6060 six-speed manual transmission,front engine,rear wheel drive
+McLaren 765LT,https://fastestlaps.com/models/mclaren-765lt,89.23,765,1368,Coupe,2020.0,United Kingdom,V8 Twin Turbo,4.0,7 speed dual clutch automatic,middle engine,rear wheel drive
+McLaren 720S,https://fastestlaps.com/models/mclaren-720s,89.78,720,1428,Coupe,2017.0,United Kingdom,twin-turbocharged V8,4.0,7 Speed SSG,middle engine,rear wheel drive
+Porsche 918 Spyder,https://fastestlaps.com/models/porsche-918-spyder,89.89,887,1668,Convertible,2013.0,Germany,V8 gasoline engine and two electric motors,4.6,7-speed-PDK,middle engine,all wheel drive
+Huracán Performante,https://fastestlaps.com/models/lamborghini-huracn-performante,90.0,640,1562,Coupe,2017.0,Italy,V10 DOHC,5.2,7 speed dual clutch automatic,middle engine,all wheel drive
+McLaren P1,https://fastestlaps.com/models/mclaren-p1,90.12,916,1519,Coupe,2013.0,United Kingdom,"Twin Turbo V8, DOHC, dual VVT 32v + Electric motor (176 hp/260 Nm)",3.8,Paddle Operated 7 speed Automatic,middle engine,rear wheel drive
+McLaren P1,https://fastestlaps.com/models/mclaren-p1,90.71,916,1519,Coupe,2013.0,United Kingdom,"Twin Turbo V8, DOHC, dual VVT 32v + Electric motor (176 hp/260 Nm)",3.8,Paddle Operated 7 speed Automatic,middle engine,rear wheel drive
+Dodge Viper ACR (Mk V),https://fastestlaps.com/models/dodge-viper-acr-mk-v,91.58,654,1539,Coupe,2016.0,United States,V10,8.4,Tremec TR6060 six-speed manual transmission,front engine,rear wheel drive
+Ferrari 488 GTB,https://fastestlaps.com/models/ferrari-488-gtb,91.68,670,1547,Coupe,2015.0,Italy,V8 twin turbo,3.9,7 speed automatic,middle engine,rear wheel drive
+Ferrari F8 Tributo,https://fastestlaps.com/models/ferrari-f8-tributo,92.27,720,1522,Coupe,2019.0,Italy,twin turbo V8,3.9,7 speed dual clutch automatic,middle engine,rear wheel drive
+Chevrolet Corvette ZR1,https://fastestlaps.com/models/chevrolet-corvette-zr1-n-a,92.46,765,1651,Coupe,2018.0,United States,V8 pushrod Supercharged,6.2,7 speed manual and 8 speed automatic,front engine,rear wheel drive
+McLaren 600LT,https://fastestlaps.com/models/mclaren-600lt,92.7,600,1404,Coupe,2018.0,United Kingdom,twin-turbocharged V8,3.8,7 speed dual clutch automatic,middle engine,rear wheel drive
+Lamborghini Huracán Evo,https://fastestlaps.com/models/lamborghini-huracn-evo,92.85,640,1619,Coupe,2019.0,Italy,Naturally aspirated V10,5.2,7 speed dual clutch automatic,middle engine,all wheel drive
+Porsche 911 Turbo S (992),https://fastestlaps.com/models/porsche-911-turbo-s-992,92.97,650,1650,Coupe,2021.0,Germany,B6 twin turbo 24 valve DOHC,3.7,8 speed dual-clutch automatic (PDK),rear engine,all wheel drive
+Mercedes-Benz AMG GT R,https://fastestlaps.com/models/mercedes-benz-amg-gt-r,93.01,585,1635,Coupe,2017.0,Germany,V8 Twin Turbo,4.0,7-speed SPEEDSHIFT (dual-clutch),front engine,rear wheel drive
+Chevrolet Corvette Z06 (C7),https://fastestlaps.com/models/chevrolet-corvette-z06-c7,93.05,659,1611,Coupe,2015.0,United States,GM LT4 6.2L Supercharged,6.2,7 Speed Manual/8 Speed Automatic Paddle Shift,front engine,rear wheel drive
+Porsche 911 GT3 RS 4.0 (997),https://fastestlaps.com/models/porsche-911-gt3-rs-4-0,93.1,500,1396,Coupe,2011.0,Germany,flat 6 n/a,4.0,6 speed maual,rear engine,rear wheel drive
+Porsche 911 Turbo S,https://fastestlaps.com/models/porsche-911-turbo-s-991-facelift,93.21,580,1604,Coupe,2016.0,Germany,"Boxer 6, twin turbo",3.8,7 speed PDK,rear engine,all wheel drive
+Porsche 911 GT3 RS (991),https://fastestlaps.com/models/porsche-911-gt3-rs-991,93.29,500,1466,Coupe,2015.0,Germany,flat-6,4.0,seven-speed PDK dual-clutch,rear engine,rear wheel drive
+Porsche 911 GT3 RS (991),https://fastestlaps.com/models/porsche-911-gt3-rs-991,93.29,500,1466,Coupe,2015.0,Germany,flat-6,4.0,seven-speed PDK dual-clutch,rear engine,rear wheel drive
+SRT Viper TA,https://fastestlaps.com/models/srt-viper-ta,93.62,649,1516,Coupe,2013.0,United States,OHV 20-valve V-10,8.4,6-Speed Tremec 6060,front engine,rear wheel drive
+Chevrolet Corvette ZR1,https://fastestlaps.com/models/chevrolet-corvette-zr1,93.7,647,1526,Coupe,2008.0,United States,V-8 supercharged,6.2,6,front engine,rear wheel drive
+Ford Mustang Shelby GT500,https://fastestlaps.com/models/ford-mustang-shelby-gt500-s550,93.81,771,1877,Coupe,2019.0,United States,Supercharged Predator V8,5.2,7-speed DCT,front engine,rear wheel drive
+Dodge Viper SRT-10 ACR,https://fastestlaps.com/models/dodge-viper-srt-10-acr,93.92,608,1544,Coupe,2008.0,United States,"V-10, 2 valves per cylinder",8.4,6,front engine,rear wheel drive
+SRT Viper GTS ,https://fastestlaps.com/models/srt-viper-gts,94.23,649,1560,Coupe,2013.0,United States,Naturally Aspirated V10,8.4,6-Speed Manual,front engine,rear wheel drive
+Audi R8 V10 Plus (Mk II),https://fastestlaps.com/models/audi-r8-plus,94.23,610,1638,Coupe,2016.0,Germany,Direct injection V10,5.2,7-speed S-tronic,middle engine,all wheel drive
+Camaro ZL1 1LE Package,https://fastestlaps.com/models/chevrolet-camaro-g6-zl1-1le,94.3,659,1747,Coupe,2018.0,United States,Supercharged LT4 V8,6.2,6-Speed Manual,front engine,rear wheel drive
+Corvette Z06 Z07 Package,https://fastestlaps.com/models/chevrolet-corvette-z06-z07-package,94.43,512,1394,Coupe,2011.0,United States,LS7 V8,7.0,6,front engine,rear wheel drive
+McLaren MP4-12C,https://fastestlaps.com/models/mclaren-mp4-12c,94.5,600,1458,Coupe,2010.0,United Kingdom,V8 twin turbo,3.8,7 speed dual clutch,middle engine,rear wheel drive
+McLaren 570S,https://fastestlaps.com/models/mclaren-570s,94.58,570,1451,Coupe,2016.0,United Kingdom,V8 twin turbo,3.8,7 speed SSG,middle engine,rear wheel drive
+SRT Viper,https://fastestlaps.com/models/srt-viper,94.63,649,1509,Coupe,2013.0,United States,Naturally Aspirated V10,8.4,6-Speed Manual,front engine,rear wheel drive
+McLaren 570GT,https://fastestlaps.com/models/mclaren-570gt,94.87,570,1496,Coupe,2016.0,United Kingdom,Twin Turbo V8,3.8,7- speed Seamless Shift dual clutch Gearbox (SSG),middle engine,rear wheel drive
+Nissan GT-R Nismo (R35),https://fastestlaps.com/models/nissan-gt-r-nismo,95.01,600,1746,Coupe,2015.0,Japan,tt v6,3.8,6 speed dual clutch,front engine,all wheel drive
+SLS AMG Black Series,https://fastestlaps.com/models/mercedes-benz-sls-amg-black-series,95.03,631,1646,Coupe,2013.0,Germany,V8,6.2,7-speed-MCT,front engine,rear wheel drive
+McLaren 620R,https://fastestlaps.com/models/mclaren-620r,95.19,620,1428,Coupe,2020.0,United Kingdom,V8 Twin Turbo,3.8,7 speed dual clutch automatic,middle engine,rear wheel drive
+Mercedes-Benz AMG GT S,https://fastestlaps.com/models/mercedes-benz-amg-gts,95.3,510,1651,Coupe,2015.0,Germany,M178 TwinTurbo V8,4.0,7-Speed AMG SpeedShift MCT,front engine,rear wheel drive
+Lamborghini Aventador LP700-4,https://fastestlaps.com/models/lamborghini-aventador-lp700-4,95.4,700,1761,Coupe,2011.0,Italy,"V12, 48 valve",6.5,7 speed ISR,middle engine,all wheel drive
+Nissan GT-R Nismo (R35),https://fastestlaps.com/models/nissan-gt-r-nismo,95.51,600,1746,Coupe,2015.0,Japan,tt v6,3.8,6 speed dual clutch,front engine,all wheel drive
+Porsche 911 Carrera S (992),https://fastestlaps.com/models/porsche-911-carrera-s-992,95.52,450,1553,Coupe,2019.0,Germany,"Flat 6, Biturbo, DI, DOHC, 24 valves, DVVT, VVL",3.0,8 speed dual-clutch automatic (PDK) or 7 speed manual,rear engine,rear wheel drive
+Porsche 911 GT2 RS (997),https://fastestlaps.com/models/porsche-911-gt2-rs,95.56,620,1401,Coupe,2010.0,Germany,"Flat 6, twin turbo",3.6,6 speed manual,rear engine,rear wheel drive
+Mercedes-Benz AMG GT S,https://fastestlaps.com/models/mercedes-benz-amg-gts,95.57,510,1651,Coupe,2015.0,Germany,M178 TwinTurbo V8,4.0,7-Speed AMG SpeedShift MCT,front engine,rear wheel drive
+Porsche 911 Turbo S (991),https://fastestlaps.com/models/porsche-911-turbo-s-991,95.62,560,1593,Coupe,2013.0,Germany,"6-cylinder-boxer, biturbo",3.8,7-speed-PDK,rear engine,all wheel drive
+Corvette  Grand Sport ,https://fastestlaps.com/models/chevrolet-corvette-grand-sport,95.62,466,1584,Coupe,2017.0,United States,LT1 V8,6.2,7-speed manual 8-speed auto,front engine,rear wheel drive
+Ford Shelby Mustang GT350R,https://fastestlaps.com/models/ford-shelby-mustang-gt350r,96.11,533,1655,Coupe,2016.0,United States,Flat-Crank Naturally Aspirated V8,5.2,6-Speed Manual,front engine,rear wheel drive
+Porsche 718 Cayman GT4,https://fastestlaps.com/models/porsche-cayman-gt4-718,96.14,420,1452,Coupe,2019.0,Germany,Naturally Aspirated flat-six,4.0,6-speed manual,middle engine,rear wheel drive
+Ferrari 458 Italia,https://fastestlaps.com/models/ferrari-458-italia,96.22,570,1529,Coupe,2009.0,Italy,V8,4.5,7 speed dual clutch,middle engine,rear wheel drive
+Mercedes-Benz AMG GT 63 S,https://fastestlaps.com/models/mercedes-benz-amg-gt-63-s,96.26,639,2112,4-door saloon,2019.0,Germany,"V8, Twin-turbo, DI, DOHC, 32 valves, DVVT",4.0,9 speed automatic,front engine,all wheel drive
+Modified BMW M4,https://fastestlaps.com/models/bmw-m4,96.29,600,1724,Coupe,2014.0,Germany,"straight six, twin turbo",3.0,7speed DCT or 6 speed manual,front engine,rear wheel drive
+Nissan GT-R (R35 530 PS),https://fastestlaps.com/models/nissan-gt-r-r35-530-ps,96.35,530,1760,Coupe,2011.0,Japan,V6 DOHC 24V twinturbo,3.8,6 speed dual clutch transaxle,front engine,all wheel drive
+Honda NSX (Mk II),https://fastestlaps.com/models/acura-nsx-2016,96.36,581,1770,Coupe,2016.0,Japan,TwinTurbo V6,3.5,9-Speed DCT,middle engine,all wheel drive
+Audi R8 GT (Mk I),https://fastestlaps.com/models/audi-r8-gt,96.39,560,1563,Coupe,2010.0,Germany,V10 n/a,5.2,6 speed R-tronic,middle engine,all wheel drive
+Lexus LFA,https://fastestlaps.com/models/lexus-lfa,96.39,560,1611,Coupe,2010.0,Japan,V10,4.8,6 speed sequential,front engine,rear wheel drive
+SRT Viper,https://fastestlaps.com/models/srt-viper,96.43,649,1509,Coupe,2013.0,United States,Naturally Aspirated V10,8.4,6-Speed Manual,front engine,rear wheel drive
+Porsche 911 Carrera S,https://fastestlaps.com/models/porsche-911-carrera-s-991-facelift,96.44,420,1485,Coupe,2015.0,Germany,twin turbo Flat 6,3.0,7-speed manual or 7-speed dual clutch,rear engine,rear wheel drive
+Nissan GT-R (R35 550 PS),https://fastestlaps.com/models/nissan-gt-r-r35-550-ps,96.63,550,1763,Coupe,2012.0,Japan,V6,3.8,6-Speed DCT,front engine,all wheel drive
+Porsche 911 GT3 RS,https://fastestlaps.com/models/porsche-911-gt3-rs-997-997-facelift,96.77,450,1400,Coupe,2010.0,Germany,"B6, 24 valve",3.8,6 speed manual,rear engine,rear wheel drive
+Ford Shelby Mustang GT350,https://fastestlaps.com/models/ford-shelby-mustang-gt350,96.83,533,1724,Coupe,2016.0,United States,Naturally Aspirated Flat Plane V8,5.2,6-Speed Manual,front engine,rear wheel drive
+Jaguar XE SV Project 8,https://fastestlaps.com/models/jaguar-xe-sv-project-8,96.96,600,1801,4-door saloon,2017.0,United Kingdom,"V8, supercharged, DI, 32 valves, DOHC",5.0,8 speed automatic,front engine,all wheel drive
+Nissan GT-R (R35 570PS),https://fastestlaps.com/models/nissan-gt-r-r35-565ps,97.08,570,1775,Coupe,2017.0,Japan,V6 DOHC Twin Turbo,3.8,6-Speed DCT,front engine,all wheel drive
+Porsche Cayman GT4 (981),https://fastestlaps.com/models/porsche-cayman-gt4,97.43,385,1360,Coupe,2015.0,Germany,"Flat 6, 24 valve",3.8,Manual six-speed,middle engine,rear wheel drive
+BMW M4 GTS,https://fastestlaps.com/models/bmw-m4-gts,97.66,500,1600,Coupe,2016.0,Germany,Inline 6 turbo,3.0,DCT,front engine,rear wheel drive
+Camaro SS 1LE Package,https://fastestlaps.com/models/chevrolet-camaro-ss-1le,97.78,461,1703,Coupe,2016.0,United States,V8 LT1,6.2,6 speed manual/8 speed automatic,front engine,rear wheel drive
+Porsche 911 Turbo,https://fastestlaps.com/models/porsche-911-turbo-997-facelift,97.8,500,1601,Coupe,2009.0,Germany,flat six turbo with direct injection,3.8,6speed manual or PDK,rear engine,all wheel drive
+Chevrolet Camaro Z/28,https://fastestlaps.com/models/chevrolet-camaro-z-28-2013,97.82,507,1702,Coupe,2013.0,United States,V8 LS7,7.0,6-Speed Tremec,front engine,rear wheel drive
+Chevrolet Corvette Stingray,https://fastestlaps.com/models/chevrolet-corvette-c8-stingray,97.83,502,1646,Coupe,2020.0,United States,Naturally Aspirated LT2 V8,6.2,8 Speed DCT,middle engine,rear wheel drive
+Aston Martin DBS Superleggera ,https://fastestlaps.com/models/aston-martin-dbs-superleggera,98.27,725,1849,Coupe,2018.0,United Kingdom,"48 valve, twin-turbo, V12",5.2,Rear mid-mounted ZF 8-speed automatic,front engine,rear wheel drive
+Chevrolet Corvette Stingray,https://fastestlaps.com/models/chevrolet-corvette-stingray-c7,98.28,461,1566,Coupe,2014.0,United States,LT1 V8,6.2,6-Speed Manual/7-Speed Manual,front engine,rear wheel drive
+Aston Martin Vantage  (Mk II),https://fastestlaps.com/models/aston-martin-vantage,98.42,510,1713,Coupe,2018.0,United Kingdom,V8 DOHC Twin Turbo,4.0,8-speed ZF automatic,front engine,rear wheel drive
+Ford Mustang GT PP2,https://fastestlaps.com/models/ford-mustang-gt-pp2,98.42,466,1735,Coupe,2018.0,United States,V8 DOHC n/a,5.0,"6 speed manual, 10-speed auto",front engine,rear wheel drive
+Cadillac CTS-V (Mk III),https://fastestlaps.com/models/cadillac-cts-v-mk-iii,98.52,649,1879,4-door saloon,2014.0,United States,SuperCharged GM LT4 V8,6.2,8L90 8-Speed AutoMatic,front engine,rear wheel drive
+Audi R8 V10 5.2 FSI Plus,https://fastestlaps.com/models/audi-r8-v10-5-2-fsi-plus,98.7,550,1651,Coupe,2013.0,Germany,"10 cylinders V 90°, Naturally-aspirated,  DOHC, 4 Valves per Cyl, FSI",5.2,7 Speed S-Tronic Automatic or Optional 6-Speed manual,middle engine,all wheel drive
+Ford Mustang Shelby GT500,https://fastestlaps.com/models/ford-mustang-shelby-gt500-2013,98.7,659,1750,Coupe,2013.0,United States,V8 32V DOHC Supercharged (2.3l  TVS positive displacement blower),5.8,6 speed manual,front engine,rear wheel drive
+Chevrolet Corvette ZR1,https://fastestlaps.com/models/chevrolet-corvette-zr1,98.7,647,1526,Coupe,2008.0,United States,V-8 supercharged,6.2,6,front engine,rear wheel drive
+Jaguar F-Type SVR,https://fastestlaps.com/models/jaguar-f-type-svr,98.75,575,1814,Coupe,2016.0,United Kingdom,V8 Supercharged,5.0,8 speed automatic,front engine,all wheel drive
+Mercedes-Benz SLS AMG,https://fastestlaps.com/models/mercedes-benz-sls-amg,98.82,571,1674,Coupe,2010.0,Germany,V8,6.2,7 speed dual clutch transaxle,front engine,rear wheel drive
+C 63 AMG Coupe Black Series,https://fastestlaps.com/models/mercedes-benz-c-63-amg-coupe-black-series,98.9,517,1748,Coupe,2011.0,Germany,Naturally aspirated V8,6.2,7-MCT,front engine,rear wheel drive
+Porsche 911 Carrera 4S (991),https://fastestlaps.com/models/porsche-911-carrera-4s-991,99.0,400,1514,Coupe,2012.0,Germany,"Boxer 6, n/a, DOHC, 24v",3.8,7 speed manual / 7 PDK,rear engine,all wheel drive
+Chevrolet Camaro ZL1,https://fastestlaps.com/models/chevrolet-camaro-zl1-2012,99.18,588,1838,Coupe,2012.0,United States,LSA V8,6.2,6-Speed Manual,front engine,rear wheel drive
+Porsche 911 Carrera S (991),https://fastestlaps.com/models/porsche-911-carrera-s-991,99.3,400,1459,Coupe,2011.0,Germany,flat6 24V n/a,3.8,7 speed PDK or 7 speed manual,rear engine,rear wheel drive
+BMW M850i (G15),https://fastestlaps.com/models/bmw-m850i,99.4,530,1980,Coupe,2018.0,Germany,V8 twin turbo 32 valve DOHC,4.4,8 speed ZF 8HP,front engine,all wheel drive
+Porsche 911 Carrera GTS,https://fastestlaps.com/models/porsche-911-carrera-gts-991-facelift,99.5,450,1514,Coupe,2016.0,Germany,Flat 6 twin turbo,3.0,7 speed dual-clutch automatic (PDK),rear engine,rear wheel drive
+Ford Mustang Boss 302 LS,https://fastestlaps.com/models/ford-mustang-boss-302-ls,99.5,443,1652,Coupe,2012.0,United States,Naturally Aspirated V8,5.0,6-Speed Manual,front engine,rear wheel drive
+Porsche 911 GT3 (997),https://fastestlaps.com/models/porsche-911-gt3,99.52,415,1435,Coupe,2006.0,Germany,"B6, 24 valve",3.6,6 speed manual,rear engine,rear wheel drive
+Cadillac ATS-V Coupe,https://fastestlaps.com/models/cadillac-ats-v-coupe,99.65,470,1703,Coupe,2016.0,United States,TwinTurbo GM LF4 V6,3.6,6-Speed Manual/8-Speed Automatic,front engine,rear wheel drive
+Alfa Romeo Giulia QV,https://fastestlaps.com/models/alfa-romeo-giulia-qv,99.68,510,1709,4-door saloon,2015.0,Italy,Twin Turbo V6,2.9,8-speed automatic or 6 speed manual,front engine,rear wheel drive
+BMW M4,https://fastestlaps.com/models/bmw-m4,99.69,431,1605,Coupe,2014.0,Germany,"straight six, twin turbo",3.0,7speed DCT or 6 speed manual,front engine,rear wheel drive
+Tesla Model 3 Performance,https://fastestlaps.com/models/tesla-model-3-performance-p3d,99.8,456,1853,4-door saloon,2018.0,United States,Dual Motor Electric,0.0,Single Speed,rear engine,all wheel drive
+BMW M5 (F90),https://fastestlaps.com/models/bmw-m5-g30,99.81,600,1919,4-door saloon,2017.0,Germany,"V8, biturbo, DI, 32 valves, DOHC, Valvetronic",4.4,8 speed automatic,front engine,all wheel drive
+Tesla Model 3 Performance,https://fastestlaps.com/models/tesla-model-3-performance,99.83,487,1846,4-door saloon,2018.0,United States,Electric motors,0.0,single speed,front engine,all wheel drive
+Porsche 911 Turbo (997),https://fastestlaps.com/models/porsche-911-turbo,99.89,480,1618,Coupe,2006.0,Germany,twin turbo B6,3.6,6 speed,rear engine,all wheel drive
+Audi TT RS Coupe (Mk III),https://fastestlaps.com/models/audi-tt-rs-coupe-2016,99.95,400,1482,Coupe,2016.0,Germany,5 Cylinder Turbo,2.5,7 Speed Dual Clutch,front engine,all wheel drive
+Aston Martin DB11,https://fastestlaps.com/models/aston-martin-db11-n-a,100.05,608,1902,Coupe,2016.0,United Kingdom,twin-turbo V12,5.2,8-speed auto ZF,front engine,rear wheel drive
+Porsche 911 Turbo S,https://fastestlaps.com/models/porsche-911-turbo-s-997,100.11,530,1591,Coupe,2010.0,Germany,flat six turbo with direct injection,3.8,7 speed PDK,rear engine,all wheel drive
+Audi R8 V10 5.2 FSI (Mk I),https://fastestlaps.com/models/audi-r8-v10-5-2-fsi,100.2,525,1671,Coupe,2009.0,Germany,V10 40v DOHC FSI,5.2,6 speed manual or 6 speed R-Tronic,middle engine,all wheel drive
+Porsche Cayenne Coupé Turbo,https://fastestlaps.com/models/porsche-cayenne-coup-turbo,100.27,550,2258,SUV/truck,2020.0,Germany,V8 twin turbo 32 valve DOHC,4.0,8 speed automatic,front engine,all wheel drive
+Nissan GT-R (R35),https://fastestlaps.com/models/nissan-gt-r,100.45,480,1765,Coupe,2008.0,Japan,V6 twinturbo,3.8,6 speed double clutch,front engine,all wheel drive
+Mercedes-Benz C 63 AMG S,https://fastestlaps.com/models/mercedes-benz-c-63-amg-s,100.5,510,1749,4-door saloon,2014.0,Germany,V8 Twin Turbo,4.0,7-Speed Automatic,front engine,rear wheel drive
+BMW M6 (F13),https://fastestlaps.com/models/bmw-m6-f13,100.52,560,1899,Coupe,2012.0,Germany,"V8, DOHC, twin turbo (twin scrolls)",4.4,7 speed dct,front engine,rear wheel drive
+Toyota Supra (Mk V 340 PS),https://fastestlaps.com/models/toyota-supra-a90,100.57,340,1522,Coupe,2019.0,Japan,inline 6 turbo,3.0,8 speed automatic (ZF),front engine,rear wheel drive
+Aston Martin Vanquish,https://fastestlaps.com/models/aston-martin-vanquish,100.71,576,1767,Coupe,2014.0,United Kingdom,V12 48 valve DOHC,5.9,8 speed automatic,front engine,rear wheel drive
+Audi R8 4.2 FSI Quattro (Mk I),https://fastestlaps.com/models/audi-r8-4-2-fsi-quattro,100.75,420,1604,Coupe,2006.0,Germany,V8,4.2,6 speed,middle engine,all wheel drive
+Jaguar F-Type V8 S,https://fastestlaps.com/models/jaguar-f-type-v8-s,100.81,495,1768,Convertible,2013.0,United Kingdom,"Supercharged 90º V8, n/a, DOHC, 32v",5.0,QuickShift 8 speed automatic,front engine,rear wheel drive
+BMW M2 Competition (F87),https://fastestlaps.com/models/bmw-m2-competition,100.83,410,1615,Coupe,2018.0,Germany,Twin Turbo I6,3.0,6-speed manual or 7-speed dual-clutch,front engine,rear wheel drive
+Lamborghini Urus,https://fastestlaps.com/models/lamborghini-urus,100.9,650,2263,SUV/truck,2018.0,Italy,V8 Twin Turbo,4.0,8-speed ZF 8HP automatic,front engine,all wheel drive
+Chevrolet Corvette Z06 (C6),https://fastestlaps.com/models/chevrolet-corvette-z06,100.9,512,1446,Coupe,2005.0,United States,"V8, 16v",7.0,6 speed manual,front engine,rear wheel drive
+Ford Mustang Boss 302,https://fastestlaps.com/models/ford-mustang-boss-302,101.06,450,1650,Coupe,2011.0,United States,V8,5.0,6-Speed,front engine,rear wheel drive
+Bentley Continental GT V8,https://fastestlaps.com/models/bentley-continental-gt-v8-n-a,101.21,550,2210,Coupe,2019.0,United Kingdom,V8 Twin Turbo,4.0,8 speed dual clutch automatic,front engine,all wheel drive
+Porsche Cayman S (981),https://fastestlaps.com/models/porsche-cayman-s-981,101.26,325,1398,Coupe,2013.0,Germany,6-cylinder-boxer,3.4,"6-speed-manual, 7-speed-PDK",middle engine,rear wheel drive
+Porsche Cayman S (981),https://fastestlaps.com/models/porsche-cayman-s-981,101.26,325,1398,Coupe,2013.0,Germany,6-cylinder-boxer,3.4,"6-speed-manual, 7-speed-PDK",middle engine,rear wheel drive
+Porsche Cayman R (987),https://fastestlaps.com/models/porsche-cayman-r,101.64,330,1363,Coupe,2010.0,Germany,flat 6,3.4,7-speed PDK,middle engine,rear wheel drive
+Aston Martin V12 Vantage S,https://fastestlaps.com/models/aston-martin-v12-vantage-s,101.77,573,1682,Coupe,2013.0,United Kingdom,"AM28 n/a 60º V12, DOHC, 48v",5.9,Sportshift III 7 speed sequential,front engine,rear wheel drive
+Jaguar F-Type R Coupe,https://fastestlaps.com/models/jaguar-f-type-r-coupe,102.0,550,1665,Coupe,2014.0,United Kingdom,Supercharged V8,5.0,8-speed Quick Shift,front engine,rear wheel drive
+E 63 AMG S T-Modell,https://fastestlaps.com/models/mercedes-benz-e-63-amg-s-t-modell,102.39,585,2092,Estate/wagon,2013.0,Germany,V8 Biturbo,5.5,7 gears automatic,front engine,rear wheel drive
+Challenger SRT Hellcat Redeye,https://fastestlaps.com/models/dodge-challenger-srt-hellcat-redeye,102.7,808,2049,Coupe,2018.0,United States,Hellcat Hemi V8 with Demon supercharger,6.2,8 speed auto only,front engine,rear wheel drive
+Jaguar XKR-S (550 PS),https://fastestlaps.com/models/jaguar-xkr-s,102.9,551,1843,Coupe,2011.0,United Kingdom,"V8, supercharged",5.0,6 speed automatic,front engine,rear wheel drive
+BMW M3 (E92),https://fastestlaps.com/models/bmw-m3-e92,102.96,420,1628,Coupe,2007.0,Germany,"V8, 32v",4.0,6 speed. manual  or 7 speed double clutch (DKG),front engine,rear wheel drive
+Audi RS5 (8T3 facelift),https://fastestlaps.com/models/audi-rs5-2012,102.97,450,1770,Coupe,2012.0,Germany,"V8 32v FSI, DOHC, 4 Valves per Cyl",4.2,7 speed S-tronic,front engine,all wheel drive
+Ford Mustang Boss 302 LS,https://fastestlaps.com/models/ford-mustang-boss-302-ls,103.0,443,1652,Coupe,2012.0,United States,Naturally Aspirated V8,5.0,6-Speed Manual,front engine,rear wheel drive
+Porsche Cayman S,https://fastestlaps.com/models/porsche-cayman-s-987-facelift,103.0,320,1420,Coupe,2008.0,Germany,Flat-6 n/a,3.5,6 speed manual or 7 speed PDK,middle engine,rear wheel drive
+Aston Martin V12 Vantage,https://fastestlaps.com/models/aston-martin-v12-vantage,103.04,517,1702,Coupe,2009.0,United Kingdom,48 valve V12,6.0,6 speed manual,front engine,rear wheel drive
+Lexus RC F,https://fastestlaps.com/models/lexus-rc-f,103.2,477,1821,Coupe,2014.0,Japan,v8,5.0,8 speed auto,front engine,rear wheel drive
+BMW 1 Series M Coupe,https://fastestlaps.com/models/bmw-1-series-m-coupe,103.31,340,1514,Coupe,2011.0,Germany,inline6 24V DOHV Turbo,3.0,6 speed manual,front engine,rear wheel drive
+Lexus LC 500,https://fastestlaps.com/models/lexus-lc500,103.4,477,1974,Coupe,2018.0,Japan,V8 32 valve DOHC,5.0,10 speed dual-clutch automatic,front engine,rear wheel drive
+C 63 AMG Edition 507,https://fastestlaps.com/models/mercedes-benz-c-63-amg-edition-507,103.45,507,1756,4-door saloon,2013.0,Germany,V8,6.2,7-speed multi-clutch automatic (MCT),front engine,rear wheel drive
+C 63 AMG Coupe Edition 507,https://fastestlaps.com/models/mercedes-benz-c-63-amg-coupe-edition-507,103.45,507,1774,Coupe,2013.0,Germany,"Naturally aspirated V8, DOHC, 32v",6.2,Speedshift MCT 7 speed,front engine,rear wheel drive
+Alfa Romeo Stelvio QV,https://fastestlaps.com/models/alfa-romeo-stelvio,103.5,510,1931,SUV/truck,2017.0,Italy,Twin Turbo V6,2.9,Automatic Transmission,front engine,all wheel drive
+Bentley Continental GT-3 R,https://fastestlaps.com/models/bentley-continental-gt-3-r,103.51,580,2195,Coupe,2014.0,United Kingdom,V8 Twin Turbo,4.0,8 speed auto,front engine,all wheel drive
+Bentley Continental GT-3 R,https://fastestlaps.com/models/bentley-continental-gt-3-r,103.51,580,2195,Coupe,2014.0,United Kingdom,V8 Twin Turbo,4.0,8 speed auto,front engine,all wheel drive
+Alfa Romeo 4C,https://fastestlaps.com/models/alfa-romeo-4c,103.78,240,1028,Coupe,2013.0,Italy,"Turbo 4-cylinder, DOHC, 16v",1.8,TCT twin dry clutch,middle engine,rear wheel drive
+Cadillac CTS-V (Mk II),https://fastestlaps.com/models/cadillac-cts-v,103.9,564,1951,4-door saloon,2009.0,United States,V8 charger,6.2,6 speed automatic,front engine,rear wheel drive
+Honda Civic Type R (FK8),https://fastestlaps.com/models/honda-civic-type-r-fk8,104.22,320,1405,Compact,2017.0,Japan,"Inline 4, turbo, DI, DOHC, 16 valves, VTEC, Dual-VTC",2.0,6 speed manual,front engine,front wheel drive
+BMW i8,https://fastestlaps.com/models/bmw-i8,104.29,374,1519,Coupe,2013.0,Germany,Electric motor and Inline 3 turbo 12 valve DOHC,1.5,6 speed automatic,front engine,all wheel drive
+Shelby GT500,https://fastestlaps.com/models/shelby-gt500-2010,104.3,547,1772,Coupe,2010.0,United States,V8,5.4,6,front engine,rear wheel drive
+Shelby Cobra 427 S/C,https://fastestlaps.com/models/shelby-cobra-427-s-c-1966,104.46,431,1110,Convertible,1966.0,United States,Ford Big-Block FE 427,7.0,4 Speed Manual,front engine,rear wheel drive
+Shelby GT500,https://fastestlaps.com/models/shelby-gt500,104.72,507,1787,Coupe,2006.0,United States,"V8, Supercharged, 32v",5.4,6,front engine,rear wheel drive
+Shelby Mustang Cobra GT500KR,https://fastestlaps.com/models/shelby-mustang-cobra-gt500kr,104.72,540,1773,Coupe,2008.0,United States,V8,5.4,6,front engine,rear wheel drive
+Porsche 911 Carrera,https://fastestlaps.com/models/porsche-911-carrera-997-997-facelift,105.0,345,1468,Coupe,2008.0,Germany,Flat 6 direct fuel injection,3.6,6 speed manual  or 7speed dual clutch (PDK),rear engine,rear wheel drive
+Jaguar XFR (Mk I),https://fastestlaps.com/models/jaguar-xfr,105.37,510,1975,4-door saloon,2009.0,United Kingdom,V8,5.0,6 speed automatic,front engine,rear wheel drive
+Chevrolet Camaro SS,https://fastestlaps.com/models/chevrolet-camaro-ss-2010,105.7,432,1773,Coupe,2010.0,United States,V8,6.2,6,front engine,rear wheel drive
+Lotus Exige S,https://fastestlaps.com/models/lotus-exige-s,105.82,222,934,Coupe,2005.0,United Kingdom,4 cyl,1.8,6-Speed,middle engine,rear wheel drive
+Toyota Supra RZ (Mk IV),https://fastestlaps.com/models/toyota-supra-rz,105.87,284,1640,Coupe,1994.0,Japan,"Inline 6, Twin Turbo, 24v",3.0,6,front engine,rear wheel drive
+BMW 135i Coupe (E82),https://fastestlaps.com/models/bmw-135i-coupe,106.0,306,1522,Coupe,2007.0,Germany,"Inline 6, Twin Turbo, 24v",3.0,6 speed manual,front engine,rear wheel drive
+Kia Stinger GT,https://fastestlaps.com/models/kia-stinger-gt,106.16,370,1852,4-door saloon,2017.0,South Korea,3.3 Litre V6 Twin Turbo,3.3,8 Speed Transmission,front engine,rear wheel drive
+Nissan Nismo 370Z,https://fastestlaps.com/models/nissan-nismo-370z,106.5,355,1500,Coupe,2009.0,Japan,V6 24V DOHC n/a,3.7,6 Speed Manual,front engine,rear wheel drive
+Bentley Continental GT Speed,https://fastestlaps.com/models/bentley-continental-gt-speed-2012,106.6,625,2336,Coupe,2012.0,United Kingdom,"W12, Twin-Turbo, 48v",6.0,8 speed ZF transmission,front engine,all wheel drive
+Subaru WRX STI,https://fastestlaps.com/models/subaru-wrx-sti,107.16,309,1532,4-door saloon,2014.0,Japan,"Turbo Boxer-4, DOHC, 16v",2.5,6-speed manual,front engine,all wheel drive
+Porsche Cayman S (987),https://fastestlaps.com/models/porsche-cayman-s,107.58,295,1409,Coupe,2005.0,Germany,B6,3.4,6 speed,rear engine,rear wheel drive
+Mitsubishi Lancer Evo X MR,https://fastestlaps.com/models/mitsubishi-lancer-evo-x-mr,107.71,295,1605,4-door saloon,2008.0,Japan,inline 4 turbo 16V DOHC,2.0,5 speed manual,front engine,all wheel drive
+Chevrolet Cobalt SS/TC,https://fastestlaps.com/models/chevrolet-cobalt-ss-tc,107.75,264,1352,Compact,2008.0,United States,"Inline 4, Turbocharged",2.0,5,front engine,front wheel drive
+Mitsubishi Lancer EVO IX,https://fastestlaps.com/models/mitsubishi-lancer-evo-ix,107.93,290,1481,4-door saloon,2005.0,Japan,"Inline 4, Turbocharged",2.0,6,front engine,all wheel drive
+Mazda MX-5 2.0 (Mk IV 184 PS),https://fastestlaps.com/models/mazda-mx-5-2-0,108.47,184,1067,Convertible,2018.0,Japan,"Inline 4, n/a, DI, 16 valves, DOHC, DVVT",2.0,6 speed manual,front engine,rear wheel drive
+BMW 335i Coupe,https://fastestlaps.com/models/bmw-335i-coupe,109.04,306,1610,Coupe,2006.0,Germany,twin turbo R6,3.0,6 speed,front engine,rear wheel drive
+Porsche 911 Carrera S (997),https://fastestlaps.com/models/porsche-911-carrera-s,110.0,355,1470,Coupe,2004.0,Germany,"B6, 24 valve",3.8,6 speed manual,rear engine,rear wheel drive
+VW Golf GTI (Mk VII 220 PS),https://fastestlaps.com/models/vw-golf-gti-mk-vii-220-ps,110.11,220,1372,Compact,2013.0,Germany,"4-cylinder-in-line, turbo",2.0,"6-speed-manual, 6-speed-DSG",front engine,front wheel drive
+Porsche Boxster (986 220 PS),https://fastestlaps.com/models/porsche-boxster-986-220-ps,110.21,220,1353,Convertible,2000.0,Germany,Flat 6 24 valve,2.7,5 speed manual,middle engine,rear wheel drive
+Mazda 3 MPS,https://fastestlaps.com/models/mazda-3-mps,110.37,260,1450,Compact,2006.0,Japan,4cyl Turbo,2.3,6,front engine,front wheel drive
+Mazda RX-8,https://fastestlaps.com/models/mazda-rx-8,110.42,231,1386,Coupe,2002.0,Japan,Renesis R2,1.3,6 speed,front engine,rear wheel drive
+Mazda MX-5 2.0 (Mk IV),https://fastestlaps.com/models/mazda-mx-5-2015,110.68,157,1061,Convertible,2015.0,Japan,I-4,2.0,6-Speed Manual,front engine,rear wheel drive
+Honda S2000 (AP1),https://fastestlaps.com/models/honda-s2000,110.74,239,1265,Convertible,1999.0,Japan,"Inline 4, 16v",2.0,6 speed,front engine,rear wheel drive
+BMW Z3 3.0i,https://fastestlaps.com/models/bmw-z3-3-0i,110.8,231,1330,Convertible,2000.0,Germany,"Inline 6, 24v",3.0,5,front engine,rear wheel drive
+Ford Fiesta ST,https://fastestlaps.com/models/ford-fiesta-st-2013,111.25,180,1212,Compact,2013.0,Germany,"I4, turbocharged with VCT",1.6,6 speed manual with torque vectoring,front engine,front wheel drive
+Subaru BRZ,https://fastestlaps.com/models/subaru-brz,111.3,200,1251,Coupe,2012.0,Japan,Flat-4,2.0,6-speed MT or 6-speed AT,front engine,rear wheel drive
+Mini Cooper S Works GP Kit,https://fastestlaps.com/models/mini-mini-cooper-s-works-gp-kit,111.73,218,1180,Compact,2006.0,United Kingdom,4cyl charger,1.6,6,front engine,front wheel drive
+Porsche 911 Carrera (997),https://fastestlaps.com/models/porsche-911-carrera-997,111.8,325,1449,Coupe,2004.0,Germany,"B6, 24 valve",3.6,6 speed manual or Tiptronic,rear engine,rear wheel drive
+Mini Cooper S (Mk II),https://fastestlaps.com/models/mini-cooper-s-mk-ii,111.98,174,1207,Compact,2006.0,United Kingdom,"Inline 4, Turbocharged, 16v",1.6,6 speed manual,front engine,front wheel drive
+Aston Martin V8 Vantage,https://fastestlaps.com/models/aston-martin-v8-vantage,112.2,385,1633,Coupe,2005.0,United Kingdom,V8,4.3,6 speed manual,front engine,rear wheel drive
+Mazda MX-5 Grand Touring,https://fastestlaps.com/models/mazda-mx-5-grand-touring,112.2,169,1150,Convertible,2009.0,Japan,DOHC 16-valve 4-cylinder engine with variable valve timing (VVT),2.0,6 manual,front engine,rear wheel drive
+Cadillac CTS-V (MK I),https://fastestlaps.com/models/cadillac-cts-v-mk-i,113.0,406,1738,4-door saloon,2005.0,United States,PushRod 16-Valve LS6 V8,5.7,6 Speed Manaual,front engine,rear wheel drive
+Chevrolet Corvette C5 Z06,https://fastestlaps.com/models/chevrolet-corvette-c5-z06,113.73,411,1418,Coupe,2003.0,United States,V8 n/a,5.7,6,front engine,rear wheel drive
+Porsche 911 Carrera,https://fastestlaps.com/models/porsche-911-carrera-996-996-facelift,114.22,320,1414,Coupe,2001.0,Germany,"Boxer 6, 24v",3.6,6,rear engine,rear wheel drive
+BMW M4 Convertible,https://fastestlaps.com/models/bmw-m4-convertible,114.23,431,1846,Convertible,2014.0,Germany,"Straight 6  4 valves / cylinder, DOHC, Variable Valve Timing",3.0,6 speed Manual,front engine,rear wheel drive
+Honda NSX-R (facelift),https://fastestlaps.com/models/honda-nsx-r,114.74,294,1270,Coupe,2002.0,Japan,V6,3.2,6 speed,middle engine,rear wheel drive
+Honda Civic SI,https://fastestlaps.com/models/honda-civic-si,114.99,197,1330,Compact,2006.0,Japan,"Inline 4, 16v",2.0,6,front engine,front wheel drive
+Honda NSX (facelift),https://fastestlaps.com/models/honda-nsx,117.0,290,1368,Coupe,2004.0,Japan,V6,3.2,6,middle engine,rear wheel drive
+Porsche Boxster S (981),https://fastestlaps.com/models/porsche-boxster-s-981,119.01,315,1400,Convertible,2012.0,Germany,boxer/6,3.4,6-speed-manual / 7-speed-PDK,middle engine,rear wheel drive
+Chevrolet Camaro Z28,https://fastestlaps.com/models/chevrolet-camaro-z28-82,125.8,193,1448,Coupe,1982.0,United States,305ci V8,5.0,5,front engine,rear wheel drive
+Ford Mustang GT,https://fastestlaps.com/models/ford-mustang-gt-1982,129.9,159,1422,Coupe,1982.0,United States,5.0 V8,5.0,5,front engine,rear wheel drive
+Kia Soul Sport 2.0,https://fastestlaps.com/models/kia-soul-sport-2-0,132.67,144,1320,Compact,2010.0,South Korea,L4 DOHC 16V CVVT,2.0,5 Manual,front engine,front wheel drive
